@@ -22,7 +22,6 @@ This demo supports the following entity / artifact types:
 |:------------------|:------------------------------------:|
 | Controller        | dd6f7017-f4d5-4ce9-a71a-12ff0a77b1fd |
 | Component         | 3e528784-2f99-40c3-b325-19abdf2d7108 |
-|-------------------|--------------------------------------|
 
 This demo supports the following transactions:
 
@@ -34,4 +33,3 @@ This demo supports the following transactions:
 | Component destroy | 7578b756-06d5-49f1-a7dc-4bd288a60774 | destroys a component entity.        |
 | state change req  | 09afc44f-faed-41b8-a5cc-d45a4e707afe | Request component change state.     |
 | state change ack  | 8f97ef23-cfd2-4586-b085-9b682f916d17 | Acknowledge component state change. |
-|-------------------|--------------------------------------|-------------------------------------|
